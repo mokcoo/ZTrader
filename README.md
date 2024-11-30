@@ -1,0 +1,1 @@
+ZTrader is a back testing framework for ctypto trading.
